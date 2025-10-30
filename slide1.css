@@ -89,7 +89,7 @@ body::before {
 }
 
 .help-button {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg,/* flag part1 - https://pri */ #667eea, #764ba2);
     color: white;
     border: none;
     padding: 16px 45px;
