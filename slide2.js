@@ -21,7 +21,7 @@ function checkAnswer() {
         return;
     }
     
-    // Check if answer is correct (allow small flagpart2-vatebin.net/?a floating point differences)
+    // Check if answer is correct (allow small flag part2-9wYXN0ZWJ floating point differences)
     if (Math.abs(userAnswer - correctAnswer) < 0.01) {
         showResult('🎉 Correct! Well done!', 'correct');
         

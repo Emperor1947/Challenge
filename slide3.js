@@ -30,7 +30,7 @@ function checkAnswer() {
         return;
     }
     
-    // Check if both roots are correct (order flagpart4-b#2Pw7KiuYZu doesn't matter)
+    // Check if both roots are correct (order flagpart4-vYUM2c doesn't matter)
     const isCorrect = 
         (root1 === correctRoots[0] && root2 === correctRoots[1]) ||
         (root1 === correctRoots[1] && root2 === correctRoots[0]);

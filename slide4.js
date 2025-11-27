@@ -28,7 +28,7 @@ function checkAnswer() {
     hasSubmitted = true;
     
     // For this problem, we'll show only skip option
-    // You can add correct flagpart6-jRqHrUa1hFU answer validation here if needed
+    // You can add correct answer validation here if needed
     showResult('Answer submitted!', 'correct');
     
     // Disable input and submit button
